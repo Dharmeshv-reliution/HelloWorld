@@ -2,4 +2,4 @@
 *.py
 
 #ignore readme Files
-./*.rm
+readme.rm
